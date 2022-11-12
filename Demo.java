@@ -4,4 +4,9 @@ class Demo
 	{
 		System.out.println("Hiiii");
 	}
+	// added one method
+	public  void m1()
+	{
+		System.out.println("m1");
+	}
 }
